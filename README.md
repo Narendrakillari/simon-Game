@@ -14,7 +14,7 @@ How to Play
 
 
 To run locally:
-git clone https://github.com/your-username/simon-game.git
+git clone https://github.com/Narendrakillari/simon-Game.git
 cd simon-game
 open index.html
 
